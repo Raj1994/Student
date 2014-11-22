@@ -11,5 +11,6 @@ cout<<"enter the marks of sub3"<<endl;
 cin>>c;
 cout<<"enter the marks of sub4"<<endl;
 cin>>d;
+sum=a+b+c+d/4;
 getch();
 }
