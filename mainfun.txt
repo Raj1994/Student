@@ -12,5 +12,6 @@ cin>>c;
 cout<<"enter the marks of sub4"<<endl;
 cin>>d;
 sum=a+b+c+d/4;
+cout<<"sum is of all the subject"<<sum; 
 getch();
 }
