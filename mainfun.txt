@@ -1,0 +1,15 @@
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+int a,b,c,d,sum;
+cout<<"enter the marks of sub1"<<endl;
+cin>>a;
+cout<<"enter the marks of sub2"<<endl;
+cin>>b;
+cout<<"enter the marks of sub3"<<endl;
+cin>>c;
+cout<<"enter the marks of sub4"<<endl;
+cin>>d;
+getch();
+}
